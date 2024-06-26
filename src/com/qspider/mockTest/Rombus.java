@@ -1,4 +1,4 @@
-package com.qspiders.mock2;
+package com.qspider.mockTest;
 
 import java.util.Scanner;
 

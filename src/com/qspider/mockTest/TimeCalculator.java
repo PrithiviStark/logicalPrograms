@@ -1,4 +1,4 @@
-package com.qspiders.interview;
+package com.qspider.mockTest;
 class MyTime
 {
 	int hour;
